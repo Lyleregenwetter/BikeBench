@@ -4,6 +4,9 @@ BikeBench provides a standardized environment for evaluating and rendering bicyc
 
 ---
 
+## 🏆 Leaderboard
+View or submit to the Leaderboard: https://huggingface.co/spaces/Lyleregenwetter/BikeBench_Leaderboard
+
 ## 📦 Dataset Access
 
 - The codebase supports **automatic downloading** of predictive and generative modeling datasets hosted on Harvard Dataverse when needed. These will be cached locally after first use.
